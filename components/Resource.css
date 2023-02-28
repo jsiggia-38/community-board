@@ -1,0 +1,62 @@
+.Resource {
+
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 25px;
+    
+    
+    
+
+}
+
+.Resource:hover {
+    transform: scale(1.02);
+}
+
+.Info-Link {
+
+    background-color: rgba(255, 183, 0, 0.977);
+    padding: 1rem;
+    font-weight: bold;
+    font-size: 1rem;
+    margin: 1rem;
+    border: 2px solid;
+    border-radius: 25px;
+    
+
+}
+
+.Info-Link:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.Info-Link-Box {
+    text-align: center;
+}
+
+.Event-Image {
+    height: 12rem;
+    width: 100%;
+    
+}
+
+.Event-Name {
+    padding: 1rem;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+
+.Event-Type {
+    padding: 0rem 1rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+
