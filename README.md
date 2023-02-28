@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] List anything else that you added to improve the site's functionality!
-- [x] maded the info button expand when you hover over it
+- [x] made the info button expand when you hover over it
 
 ## Video Walkthrough
 
